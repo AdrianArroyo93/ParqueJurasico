@@ -1,6 +1,7 @@
 # ParqueJurasico
-Ejercicio con Arrays
-Actividad1: Nos encontramos en Parque Jurasico y un grupo de velociraptores
+Actividad del Parque Jurásico: 
+
+Nos encontramos en Parque Jurasico y un grupo de velociraptores
          
 se ha escapado de su recinto y los cuidadores deben localizar su posición
 para capturarlos. 
